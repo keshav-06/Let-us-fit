@@ -28,8 +28,8 @@ In today's world, fitness is no longer just a hobby, but a crucial aspect of mai
 ## User Interface
 
 <div>
-  <img src="https://github.com/keshav-06/Let-us-fit/assets/87660591/3698c311-4415-43ca-81de-54a5fa415364" alt="Image 1" width="400" style="display:inline-block;">
-  <img src="https://github.com/keshav-06/Let-us-fit/assets/87660591/24a9d6e2-c475-4de9-966e-376a1009499a" alt="Image 2" width="400" style="display:inline-block;">
+  <img src="https://github.com/keshav-06/Let-us-fit/assets/87660591/3698c311-4415-43ca-81de-54a5fa415364" alt="Image 1" width="200" style="display:inline-block;">
+  <img src="https://github.com/keshav-06/Let-us-fit/assets/87660591/24a9d6e2-c475-4de9-966e-376a1009499a" alt="Image 2" width="200" style="display:inline-block;">
 </div>
 
 <!-- ![Ui1](https://github.com/keshav-06/Let-us-fit/assets/87660591/3698c311-4415-43ca-81de-54a5fa415364)
