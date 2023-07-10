@@ -37,6 +37,3 @@ In today's world, fitness is no longer just a hobby, but a crucial aspect of mai
 I achieved my goals and created the desired product. The functionalities of tracking calories burnt and rechargeability are working as expected. The code has been made open source and the device is teachable as planned. As per observations, it can successfully track any exercise it faces. The implementation was lengthy but straightforward and the end product is highly reliable while also being extremely cost-effective. Future scope remains for added functionalities and higher complexity of calculations to get more detailed fitness tracking measurements.
 
 ### Thank You
-
-
-
